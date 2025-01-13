@@ -1,1 +1,1 @@
-# FastTrip
+# Fast
